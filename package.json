@@ -1,0 +1,24 @@
+{
+  "name": "image-shrink",
+  "version": "1.0.0",
+  "description": "app to optimize images",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "nodemon --exec electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francomac/img-optimizer-electron.git"
+  },
+  "author": "francomac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/francomac/img-optimizer-electron/issues"
+  },
+  "homepage": "https://github.com/francomac/img-optimizer-electron#readme",
+  "devDependencies": {
+    "electron": "^9.0.0"
+  }
+}
